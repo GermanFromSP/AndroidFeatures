@@ -11,7 +11,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 
 /*
-This class allows you to implement redo and undo logic.
+Class "UndoRedoManager" allows you to implement redo and undo logic.
 Each action that needs to be repeated or undone is written as a lambda expression, allowing you to fine-tune each step.
 */
 
